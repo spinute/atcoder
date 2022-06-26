@@ -1,0 +1,13 @@
+[package]
+name = "atcoder"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+proconio = "0.3.6"
+
+[[bin]]
+name = "atcoder"
+path = "abc/183/a.rs"
